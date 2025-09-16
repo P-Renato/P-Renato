@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @P-Renato
-- 👀 I’m interested in music, video editing and coding!
-- 🌱 I’m currently learning lot's of things, that I don't know where to start from..
-- 💞️ I’m looking to collaborate on anything, at the moment.
-- 📫 You can reach me at my e-mail: paulo.borupdebakker@dci-student.org
-- 😄 Pronouns: he
-- ⚡ Fun fact: I'm a Brazilian guy, living in Germany, with a Czech wife, speaking Spanish at home. 
+# Hello! 👋 My name is Renato
 
-<!---
-P-Renato/P-Renato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💻 Fullstack Web Developer
+
+- Techs & Stacks
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=yellow)
+![React](https://img.shields.io/badge/React-18.2-61DAFB?logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-18.0-339933?logo=nodedotjs)![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode)
+![TypeScript](https://img.shields.io/badge/TypeScript-007acd?logo=typescript&logoColor=blue)
