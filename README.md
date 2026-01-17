@@ -1,13 +1,87 @@
-- 👋 Hi, I’m @P-Renato
-- 👀 I’m interested in music, video editing and coding!
-- 🌱 I’m currently learning lot's of things, that I don't know where to start from..
-- 💞️ I’m looking to collaborate on anything, at the moment.
-- 📫 You can reach me at my e-mail: paulo.borupdebakker@dci-student.org
-- 😄 Pronouns: he
-- ⚡ Fun fact: I'm a Brazilian guy, living in Germany, with a Czech wife, speaking Spanish at home. 
+# 👋 Hi, I’m Renato de Bakker
 
-<!---
-P-Renato/P-Renato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-- Hello
+## 🚀 Fullstack Web Developer | PERN Stack
+
+Methodical and motivated **Fullstack Web Developer** with strong foundations in modern web technologies and extensive professional experience.  
+Recently completed intensive training in the **PERN stack (PostgreSQL, Express, React, Node.js)** and passionate about building clean, scalable, and user-focused applications.
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- **JavaScript (ES6+)**, **TypeScript**
+- **React**, **Next.js**, **React Native**
+- HTML5, CSS3
+- Tailwind, SASS
+
+### Backend
+- Node.js, Express
+- REST APIs
+- EJS
+
+### Databases
+- PostgreSQL
+- MongoDB
+- MySQL
+- SQLite
+
+### Tools & Others
+- Git & GitHub
+- Docker
+- Vite
+- Jest
+- Agile / Scrum
+- Figma (collaboration)
+
+---
+
+## 📌 Featured Projects
+
+### 🛒 Online Shop
+**Technologies:** HTML5, CSS3, JavaScript (ES6+)  
+A functional e-commerce frontend built as my first major project. Includes product listings and a shopping cart, focusing on DOM manipulation and responsive design.
+
+🔗 **Live Demo:**  
+https://online-shop-to-deploy.onrender.com/index.html
+
+---
+
+### 🧘 Yoga Instructor App
+**Technologies:** React, Node.js, TypeScript, HTML5, CSS3  
+Team-based project developed using Agile methodology.  
+I focused mainly on frontend development, translating Figma designs into a responsive React interface and improving code quality by resolving TypeScript issues.
+
+---
+
+### 🧠 Memory Game for Kids
+**Technologies:** JavaScript, TypeScript, HTML5, CSS3  
+Interactive browser-based memory game designed to strengthen logical thinking, DOM handling, and clean code structure.
+
+🔗 **Live Demo:**  
+https://memory-for-kids.onrender.com
+
+---
+
+## 🌍 Languages
+- 🇧🇷 Portuguese — Native
+- 🇬🇧 English — C2 (Fluent)
+- 🇪🇸 Spanish — C1 (Advanced)
+- 🇩🇪 German — B2 (Intermediate)
+
+---
+
+## 🎵 About Me
+I’m also a **musician** with years of experience in live performance, songwriting, and recording.  
+I enjoy **video editing**, creative visual content, cooking, and exploring new ideas — creativity and attention to detail are central to both my hobbies and my work as a developer.
+
+---
+
+## 📫 Let’s Connect
+- 💼 **LinkedIn:** https://www.linkedin.com/in/renato-de-bakker-400543360/
+- 🧑‍💻 **GitHub:** https://github.com/P-Renato
+- 📧 **Email:** prmontagni.85@gmail.com
+
+---
+
+⭐ Feel free to explore my repositories and reach out — I’m always open to collaboration and learning new things!
