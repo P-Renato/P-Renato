@@ -19,6 +19,7 @@ Recently completed intensive training in the **PERN stack (PostgreSQL, Express, 
 - Node.js, Express
 - REST APIs
 - EJS
+- PHP
 
 ### Databases
 - PostgreSQL
@@ -52,6 +53,8 @@ https://online-shop-to-deploy.onrender.com/index.html
 Team-based project developed using Agile methodology.  
 I focused mainly on frontend development, translating Figma designs into a responsive React interface and improving code quality by resolving TypeScript issues.
 
+🔗 **Live Demo:**  
+[https://memory-for-kids.onrender.com](https://yoga-instructer-1-group-project-1.onrender.com)
 ---
 
 ### 🧠 Memory Game for Kids
