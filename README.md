@@ -43,8 +43,7 @@ Recently completed intensive training in the **PERN stack (PostgreSQL, Express, 
 **Technologies:** HTML5, CSS3, JavaScript (ES6+)  
 A functional e-commerce frontend built as my first major project. Includes product listings and a shopping cart, focusing on DOM manipulation and responsive design.
 
-🔗 **Live Demo:**  
-https://online-shop-to-deploy.onrender.com/index.html
+🔗 **Live Demo:** [Online Shop App](https://online-shop-to-deploy.onrender.com/index.html)
 
 ---
 
@@ -53,16 +52,23 @@ https://online-shop-to-deploy.onrender.com/index.html
 Team-based project developed using Agile methodology.  
 I focused mainly on frontend development, translating Figma designs into a responsive React interface and improving code quality by resolving TypeScript issues.
 
-🔗 **Live Demo:**  
-[Yoga Instructor Page](https://yoga-instructer-1-group-project-1.onrender.com)
+🔗 **Live Demo:** [Yoga Instructor Page](https://yoga-instructer-1-group-project-1.onrender.com)
+
 ---
 
 ### 🧠 Memory Game for Kids
 **Technologies:** JavaScript, TypeScript, HTML5, CSS3  
 Interactive browser-based memory game designed to strengthen logical thinking, DOM handling, and clean code structure.
 
-🔗 **Live Demo:**  
-https://memory-for-kids.onrender.com
+🔗 **Live Demo:** [Memory Game for Kids](https://memory-for-kids.onrender.com)
+
+---
+
+### ☕ Coffeemates - Social Media Platform
+**Technologies:** React, TypeScript, Bun/Express, MongoDB, WebSockets  
+Full-stack social media platform for coffee enthusiasts built in a 4-person team. Features include real-time chat with WebSockets, advanced search for users and coffee shops, user profiles with image uploads, and OAuth authentication (Google/Facebook).
+
+🔗 **Live Demo:** [Coffeemates Platform](https://coffeemates-client.onrender.com)
 
 ---
 
@@ -81,10 +87,10 @@ I enjoy **video editing**, creative visual content, cooking, and exploring new i
 ---
 
 ## 📫 Let’s Connect
-- 💼 **LinkedIn:** https://www.linkedin.com/in/renato-de-bakker-400543360/
-- 🧑‍💻 **GitHub:** https://github.com/P-Renato
+- 💼 **LinkedIn:** [Renato de Bakker](https://www.linkedin.com/in/renato-de-bakker-400543360/)
+- 🧑‍💻 **GitHub:** [P-Renato](https://github.com/P-Renato)
 - 📧 **Email:** prmontagni.85@gmail.com
 
 ---
 
-⭐ Feel free to explore my repositories and reach out — I’m always open to collaboration and learning new things!
+⭐ Feel free to explore my repositories and reach out — I'm always open to collaboration and learning new things!
