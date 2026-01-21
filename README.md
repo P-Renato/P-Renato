@@ -54,7 +54,7 @@ Team-based project developed using Agile methodology.
 I focused mainly on frontend development, translating Figma designs into a responsive React interface and improving code quality by resolving TypeScript issues.
 
 🔗 **Live Demo:**  
-[https://memory-for-kids.onrender.com](https://yoga-instructer-1-group-project-1.onrender.com)
+[Yoga Instructor Page](https://yoga-instructer-1-group-project-1.onrender.com)
 ---
 
 ### 🧠 Memory Game for Kids
